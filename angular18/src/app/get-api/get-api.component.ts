@@ -20,7 +20,7 @@ constructor(private http:HttpClient){}
 
 // https://jsonplaceholder.typicode.com/users    --> Fake Api from jsonplaceholder
 
-// https://projectapi.gerasim.in/api/RealEstate/GetAllCustomers   -->API from https://projectapi.gerasim.in/index.html.
+// https://projectapi.gerasim.in/api/RealEstate/GetAllCustomers   -->API from https://projectapi.gerasim.in/index.html.  For This Api Port Should be 4209 use ng s --port 4209
 
 getAllUser(){
   debugger;
